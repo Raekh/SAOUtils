@@ -16,12 +16,12 @@
       <panel>
         <type>1</type>
         <descrip>Eyes, Lungs, Pancreas. So many snacks, so little time.</descrip>
-        <image>C:\Users\florou\Downloads\_Image Files\PNG\void.png</image>
+        <image></image>
       </panel>
       <icon>
         <normal>./Images/symbol/info_normal.png</normal>
         <hover>./Images/symbol/info_hover.png</hover>
-        <press/>
+        <press></press>
       </icon>
       <menu>
         <item>
