@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <config catalog="Position">
+    <property key="Y" value="37"/>
+    <property key="X" value="1722"/>
+  </config>
+  <config catalog="General">
+    <property key="UseExternalBrowser" value="1"/>
+    <property key="PreferLocalName" value="1"/>
+  </config>
+</configuration>

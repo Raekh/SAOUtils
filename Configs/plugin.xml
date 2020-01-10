@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <config catalog="State">
+    <property key="E569A57C-C78A-4D22-A663-AF8E4D6EA962" value="1"/>
+    <property key="0E721752-E074-4C29-859D-4EECF561E349" value="0"/>
+    <property key="4DD45DDE-1F97-4E13-A35E-E29E05ADC78D" value="1"/>
+    <property key="380FC664-122D-41FE-B177-F45437BC421D" value="0"/>
+    <property key="CDA48885-4D37-40BF-B474-511B28DE4EDD" value="1"/>
+    <property key="0081D2EF-C1EB-40D4-93C0-04AFE5152DC8" value="0"/>
+    <property key="0C997385-27C7-444D-B1A3-3D75D9CCC479" value="0"/>
+    <property key="2DF313A1-E3D0-4196-A0B3-03ADF7F12316" value="1"/>
+    <property key="00B7D2DA-F0DD-485C-8AA0-DEC7388E2376" value="0"/>
+    <property key="00000000-4900-616D-6765-576964676574" value="0"/>
+    <property key="C75B0728-7736-43DE-8AF7-B1C9F071CF17" value="1"/>
+    <property key="C97BE53C-5E9F-4074-BB5B-61616CE53B03" value="1"/>
+    <property key="6962B3C1-DF50-4D8A-8BB0-425A64E81DCA" value="1"/>
+    <property key="61430000-6472-6E69-616C-53797374656D" value="1"/>
+    <property key="D0525A9F-96B2-46E7-73AF-F4A786249A96" value="0"/>
+  </config>
+</configuration>

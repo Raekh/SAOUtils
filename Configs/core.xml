@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <config catalog="Sound">
+    <property key="Enable" value="1"/>
+  </config>
+  <config catalog="Plugin">
+    <property key="Enable" value="1"/>
+  </config>
+  <config catalog="Appearance">
+    <property key="MotionBlur" value="0"/>
+    <property key="AnalogFilter" value="2"/>
+    <property key="CameraBreath" value="1"/>
+    <property key="CameraFollowCursor" value="1"/>
+    <property key="Magnification" value="170"/>
+    <property key="ShowSplash" value="1"/>
+    <property key="BootAnimate" value="1"/>
+    <property key="NotificationPosition" value="8"/>
+    <property key="BackgroundDensity" value="150"/>
+    <property key="LaunchType" value="2"/>
+    <property key="LaunchMode" value="0"/>
+  </config>
+  <config catalog="Graphic">
+    <property key="StereoEyeSeparation" value="128"/>
+    <property key="StereoZeroParallax" value="128"/>
+    <property key="StereoSideMode" value="0"/>
+    <property key="StereoMode" value="0"/>
+    <property key="TextureFiltering" value="4"/>
+    <property key="MultiSampling" value="16"/>
+    <property key="VideoAdapter" value="1"/>
+    <property key="DisplayMode" value="1"/>
+  </config>
+  <config catalog="Hotkey">
+    <property key="ExcludeProcess"/>
+    <property key="HotkeyChar" value="S"/>
+    <property key="HotkeyType" value="1"/>
+    <property key="GestureSensitive" value="1"/>
+    <property key="ForegroundProcessOnly" value="1"/>
+    <property key="ProcessDetect" value="0"/>
+    <property key="GestureType" value="1"/>
+  </config>
+  <config catalog="General">
+    <property key="CheckUpdate" value="7"/>
+    <property key="SystemStartDelay" value="0"/>
+    <property key="StartWithSystem" value="1"/>
+    <property key="TouchFriendly" value="0"/>
+    <property key="ToolTips" value="1"/>
+    <property key="LockingMode" value="0"/>
+    <property key="PressTimeout" value="2"/>
+  </config>
+</configuration>

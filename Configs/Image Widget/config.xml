@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <config catalog="2">
+    <property key="Path" value="C:\Users\florou\Downloads\_Image Files\PNG\void.png"/>
+    <property key="Pin" value="1"/>
+    <property key="Y" value="205"/>
+    <property key="X" value="-204"/>
+    <property key="Ratio" value="0,0666667"/>
+  </config>
+  <config catalog="General">
+    <property key="WidgetList">
+      <value>2</value>
+    </property>
+  </config>
+  <config catalog="1">
+    <property key="Y" value="246"/>
+    <property key="X" value="170"/>
+    <property key="Ratio" value="1"/>
+  </config>
+</configuration>

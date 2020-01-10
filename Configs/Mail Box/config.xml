@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <config catalog="Position">
+    <property key="Y" value="50"/>
+    <property key="X" value="12"/>
+  </config>
+</configuration>

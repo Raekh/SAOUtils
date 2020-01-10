@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+  <item>
+    <name>Kirito</name>
+    <data>
+      <source>00000001-4F00-6144-7461-536F75726365</source>
+      <data>2F94BA5A-BAD6-472F-9C27-3AAE015C1917</data>
+      <value>0</value>
+      <mode>1</mode>
+      <interval>1000</interval>
+      <unit>µs</unit>
+    </data>
+  </item>
+  <list>
+    <item>
+      <name>RAM</name>
+      <data>
+        <source>00000001-4F00-6144-7461-536F75726365</source>
+        <data>766A81E5-FC74-4C10-9020-27280857B1CB</data>
+        <value>0</value>
+        <mode>0</mode>
+        <interval>1000</interval>
+        <unit>MB</unit>
+      </data>
+    </item>
+    <item>
+      <name>HDD</name>
+      <data>
+        <source>00000001-4F00-6144-7461-536F75726365</source>
+        <data>529DD40A-12A4-4196-AF7A-9A174943134B</data>
+        <value>0</value>
+        <mode>0</mode>
+        <interval>60000</interval>
+        <unit>MB</unit>
+      </data>
+    </item>
+  </list>
+</widget>
