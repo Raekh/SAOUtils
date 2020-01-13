@@ -8,8 +8,8 @@
   </config>
   <config catalog="Appearance">
     <property key="MotionBlur" value="0"/>
-    <property key="AnalogFilter" value="2"/>
-    <property key="CameraBreath" value="1"/>
+    <property key="AnalogFilter" value="1"/>
+    <property key="CameraBreath" value="0"/>
     <property key="CameraFollowCursor" value="1"/>
     <property key="Magnification" value="170"/>
     <property key="ShowSplash" value="1"/>

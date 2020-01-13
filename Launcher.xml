@@ -16,12 +16,12 @@
       <panel>
         <type>1</type>
         <descrip>Eyes, Lungs, Pancreas. So many snacks, so little time.</descrip>
-        <image></image>
+        <image/>
       </panel>
       <icon>
         <normal>./Images/symbol/info_normal.png</normal>
         <hover>./Images/symbol/info_hover.png</hover>
-        <press></press>
+        <press/>
       </icon>
       <menu>
         <item>
@@ -42,6 +42,62 @@
             <press/>
           </icon>
           <menu>
+            <item>
+              <name>SAO Utils</name>
+              <type>0</type>
+              <action>
+                <type>3</type>
+                <command>
+                  <![CDATA[C:\Program Files\Studio GPBeta\SAO Utils]]>
+                </command>
+              </action>
+              <icon>
+                <normal>./Images/icon/ok_normal.png</normal>
+                <hover>./Images/icon/ok_hover.png</hover>
+                <press></press>
+              </icon>
+            </item>
+            <item>
+              <name>Eminence folders</name>
+              <icon>
+                <normal>./Images/icon/Communicate/tasks_normal.png</normal>
+                <hover>./Images/icon/Communicate/tasks_hover.png</hover>
+                <press></press>
+              </icon>
+              <type>1</type>
+              <panel>
+                <type>1</type>
+                <descrip>Dossiers Eminence</descrip>
+                <image></image>
+              </panel>
+              <menu>
+                <item>
+                  <name>Recette dev-git</name>
+                  <type>0</type>
+                  <action>
+                    <type>3</type>
+                    <command>
+                      <![CDATA[O:\dev-git\florou]]>
+                    </command>
+                  </action>
+                </item>
+                <item>
+                  <name>Recette HTDOCS</name>
+                  <type>0</type>
+                  <action>
+                    <type>3</type>
+                    <command>
+                      <![CDATA[O:\]]>
+                    </command>
+                  </action>
+                  <icon>
+                    <normal>./Images/icon/folder_normal.png</normal>
+                    <hover>./Images/icon/folder_hover.png</hover>
+                    <press></press>
+                  </icon>
+                </item>
+              </menu>
+            </item>
             <item>
               <name>My Documents</name>
               <namespace>
